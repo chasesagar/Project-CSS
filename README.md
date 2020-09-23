@@ -8,7 +8,7 @@ on events like scroll and on decreasing device width.
 Contributions and suggestion are appreciated.
 [Table of Contents](#table-of-contents) given below
 
-![Product Gif](https://github.com/chasesagar/Project-CSS/img/two-thumb.gif)
+![Product Gif](https://github.com/chasesagar/Project-CSS/blob/master/img/two%thumb.gif)
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Contributions and suggestion are appreciated.
 
 ## Demo
 
-![Product Gif](https://github.com/chasesagar/Project-CSS/img/one-thumb.gif)
+![Product Gif](https://github.com/chasesagar/Project-CSS/blob/master/img/one-thumb.gif)
 
 ## Quick Start
 
@@ -67,4 +67,4 @@ Instagram: <https://www.instagram.com/sagar__saini>
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/chasesagar/Python-Programming/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/chasesagar/Project-CSS/blob/master/LICENSE) file for details
