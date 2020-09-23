@@ -8,7 +8,7 @@ on events like scroll and on decreasing device width.
 Contributions and suggestion are appreciated.
 [Table of Contents](#table-of-contents) given below
 
-![Product Gif](https://github.com/chasesagar/Project-CSS/blob/master/img/two%thumb.gif)
+![Product Gif](https://github.com/chasesagar/Project-CSS/blob/master/img/two-thumb.gif)
 
 ## Table of Contents
 
@@ -52,18 +52,18 @@ Project-CSS/
 <img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
 
 ## Authors
-* **Sagar Saini** - *Initial work* - [ChaseSagar](https://sagarsaini.herokuapp.com)
+**Sagar Saini** - *Initial work* - [ChaseSagar](https://sagarsaini.herokuapp.com)
 See also the list of contributors who participated in this project.
 
 ### Social Media
 
-LinkedIn: <https://www.linkedin.com/in/chasesagar/>
+* LinkedIn: <https://www.linkedin.com/in/chasesagar/>
 
-Twitter: <https://twitter.com/sagar__saini>
+* Twitter: <https://twitter.com/sagar__saini>
 
-Facebook: <https://www.facebook.com/Chasesagar>
+* Facebook: <https://www.facebook.com/Chasesagar>
 
-Instagram: <https://www.instagram.com/sagar__saini>
+* Instagram: <https://www.instagram.com/sagar__saini>
 
 ## License
 
